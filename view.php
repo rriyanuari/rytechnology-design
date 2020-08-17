@@ -21,9 +21,9 @@
         <li class="<?= (!isset($_GET['p'])) ? '' : 'active' ?>">
           <a href="view.php?p=about">About</a>
         </li>
-        <!-- <li>
+        <li>
           <a href="index.php">Logout</a>
-        </li> -->
+        </li>
       </ul>
     </nav>
   </header>
